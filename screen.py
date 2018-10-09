@@ -1,7 +1,7 @@
 import os
 from PIL import ImageGrab
 
-IMAGE_DIR = "output/screenshot.png"
+IMAGE_DIR = "screenshot.png"
 
 def shot():
     # (x0,y0,x1,y1) need two points to create rectangle
