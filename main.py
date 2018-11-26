@@ -10,7 +10,7 @@ def main():
     wiki_result = wiki_search.getResults()
     google_search = GoogleSearch()
     google_search_result = google_search.getResult(question_options['question'], question_options['options'])
-    print(wiki_result)
-    print(google_search_result)
+    
+    
 if __name__== '__main__':
     main()
