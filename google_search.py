@@ -20,6 +20,7 @@ class GoogleSearch:
                 query = question + ' "' + option + '"'
             results.append(self.search(query))
         return results
+    
     def search(self,query):
         service = build("customsearch", "v1", developerKey=self.SEARCH_API_KEY)
         res = service.cse().list(
