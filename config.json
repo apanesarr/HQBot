@@ -1,0 +1,9 @@
+{ 
+  "GOOGLE": { 
+    "CUSTOM_SEARCH_API_KEY": "SOME_KEY",
+    "CUSTOM_SEARCH_ENGINE_ID": "SOME_KEY"
+  },
+  "LOCAL": {
+    "IMAGE_PATH": "screenshot.png"
+  }
+}
