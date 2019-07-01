@@ -2,6 +2,9 @@
 
 Bot that helps answer questions posed in the HQ Trivia app.
 
+
+![alt text](https://i.imgur.com/7weqp5Q.png)
+
 Demo: https://youtu.be/0dy9Y7u367g
 
 ## Getting Started
